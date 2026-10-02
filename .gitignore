@@ -1,0 +1,23 @@
+# Ortam / sırlar
+.env
+
+# Sanal ortam
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# Log ve test çıktıları
+llm_test_log.txt
+test_sonuclari.csv
+
+# Veritabanı dosyaları
+*.sqlite
+*.bak
+
+# IDE
+.vscode/
+.idea/
+
+# İşletim sistemi
+.DS_Store

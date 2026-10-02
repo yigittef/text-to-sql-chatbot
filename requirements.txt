@@ -1,0 +1,9 @@
+streamlit
+pyodbc
+sqlalchemy
+google-genai
+langchain-ollama
+python-dotenv
+pandas
+openpyxl
+reportlab
